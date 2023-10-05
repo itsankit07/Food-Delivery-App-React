@@ -1,0 +1,86 @@
+{
+    "info": {
+        "id": "328051",
+        "name": "SashMicks Bakery (Cake)",
+        "cloudinaryImageId": "0cb9293ff7ec5559f898add049b547a7",
+        "locality": "Sundar Shopping Complex",
+        "areaName": "Sector 72",
+        "costForTwo": "₹300 for two",
+        "cuisines": [
+            "Bakery",
+            "Desserts"
+        ],
+        "avgRating": 4.3,
+        "feeDetails": {
+            "restaurantId": "328051",
+            "fees": [
+                {
+                    "name": "BASE_DISTANCE",
+                    "fee": 12600
+                },
+                {
+                    "name": "BASE_TIME"
+                },
+                {
+                    "name": "ANCILLARY_SURGE_FEE"
+                }
+            ],
+            "totalFee": 12600
+        },
+        "parentId": "11784",
+        "avgRatingString": "4.3",
+        "totalRatingsString": "1K+",
+        "sla": {
+            "deliveryTime": 28,
+            "lastMileTravel": 9.5,
+            "serviceability": "SERVICEABLE",
+            "slaString": "28 mins",
+            "lastMileTravelString": "9.5 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2023-10-01 23:59:00",
+            "opened": true
+        },
+        "badges": {},
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {},
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "aggregatedDiscountInfoV3": {
+            "header": "30% OFF",
+            "subHeader": "UPTO ₹75"
+        },
+        "orderabilityCommunication": {
+            "title": {},
+            "subTitle": {},
+            "message": {},
+            "customIcon": {}
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "mediaType": "ADS_MEDIA_ENUM_IMAGE",
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+    },
+    "analytics": {
+        "context": "seo-data-aa22f2be-ba69-45ea-9931-91503f4de04b"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/restaurants/sashmicks-bakery-cake-sundar-shopping-complex-sector-72-noida-328051",
+        "text": "RESTAURANT_MENU",
+        "type": "WEBLINK"
+    },
+    "widgetId": "collectionV5RestaurantListWidget_SimRestoRelevance_food_seo"
+}
